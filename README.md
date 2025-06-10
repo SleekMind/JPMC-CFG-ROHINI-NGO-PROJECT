@@ -139,7 +139,7 @@ This project was developed during the 24-hour **Code for Good Hackathon 2024**, 
 
 ## 📫 Contact
 
-For collaboration or inquiries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/vinayak-sonar/) or email at `vinayak.vmsc@gmail.com`.
+For collaboration or inquiries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/vinayak-sonar-494068229/) or email at `vinayak.vmsc@gmail.com`.
 
 ---
 
